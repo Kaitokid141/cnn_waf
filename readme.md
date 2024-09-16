@@ -31,4 +31,4 @@
   - Python 3.6.7
   - Tensorflow 1.14.0
   - Keras 2.2.5
-  - h5py 2.1.0
+  - h5py 2.9.0
