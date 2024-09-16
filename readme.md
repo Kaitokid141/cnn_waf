@@ -26,3 +26,9 @@
 2. [Detecting Malicious Requests with Keras & Tensorflow](<https://medium.com/slalom-engineering/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28>)
 3. [Fwaf-Machine-Learning-Driven-Web-Application-Firewall](<https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall>)
 4. [Deep Learning with Python](<https://www.manning.com/books/deep-learning-with-python>)
+
+* Yêu cầu (Tự tìm kiếm)
+  - Python 3.6.
+  - Tensorflow 1.14.0
+  - Keras 2.2.5
+  - h5py 2.1.0
