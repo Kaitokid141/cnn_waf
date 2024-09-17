@@ -32,3 +32,4 @@
   - Tensorflow 1.14.0
   - Keras 2.2.5
   - h5py 2.9.0
+  - protobuf 3.20.1
